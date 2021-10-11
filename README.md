@@ -25,4 +25,8 @@
 
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/58bXZhA7UX)
   
+</p>
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nuno001&show_icons=true&custom_title=Nuno001%20Github%20Stats&title_color=fff&text_color=fff&icon_color=fff&bg_color=1e2228&hide_border=true" alt="Statistics." />
+</p>
