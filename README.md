@@ -11,11 +11,10 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg"
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
 
  
@@ -27,6 +26,3 @@
   
 </p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nuno001&show_icons=true&custom_title=Nuno001%20Github%20Stats&title_color=fff&text_color=fff&icon_color=fff&bg_color=1e2228&hide_border=true" alt="Statistics." />
-</p>
