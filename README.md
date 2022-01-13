@@ -82,7 +82,7 @@
 
   </a>
   
-    />
+    /> print ('Obrigado por ler')
   </a>
 </p>
 <h5 align="center">@Nuno001</h5>
