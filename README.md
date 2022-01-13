@@ -91,10 +91,7 @@
       align="center"
       src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=00FFFF">
   </a>
-  <a href="">
-    <img
-         align="center"
-         src=""
+
   </a>
   <a href="">
     <img
@@ -103,5 +100,5 @@
     />
   </a>
 </p>
-<h5 align="center">Seu @Nuno001</h5>
+<h5 align="center">@Nuno001</h5>
 </details>
