@@ -23,15 +23,15 @@
       <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="html5" width="40" height="40"/>
    </a>
    <a href="https://www.mysql.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/>
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="slack" width="40" height="40"/>
    </a>
    <a href="https://www.python.org">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="git" width="40" height="40"/>
    </a>
 </p>
- </a>
+  </a>
    <a href="https://www.selenium.dev">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="git" width="40" height="40"/>
    </a>
 </p>
 
