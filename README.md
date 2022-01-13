@@ -1,4 +1,4 @@
-[![banner](./banner.png)](https://github.com/Nuno001)
+
 
   <p align="center">
    <a href="https://code.visualstudio.com/">
@@ -33,7 +33,7 @@
 <h4 align="center">
 <details>
 <summary>Mais...</summary>
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é [seu nome]</h1></img>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é Heitor</h1></img>
 
 <p align="center">
   <a href="https://github.com/Nuno001">
@@ -84,10 +84,6 @@
       src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
     />
   </a>
-  <a href="">
-    <img
-      align="center"
-      src=""
     />
   </a>
   <a href="https://discord.gg/https://discord.gg/Gkhs4eFpbR">
