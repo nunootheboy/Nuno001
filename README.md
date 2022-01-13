@@ -8,7 +8,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="html5" width="40" height="40"/>
    </a>
    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="css3" width="40" height="40"/>
    </a>
    <a href="https://mariadb.org/">
       <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="javascript" width="40" height="40"/>
