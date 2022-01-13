@@ -29,11 +29,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="git" width="40" height="40"/>
    </a>
 </p>
-  </a>
-   <a href="https://www.selenium.dev">
-      <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="git" width="40" height="59"/>
-   </a>
-</p>
+  
 
 <h4 align="center">
 <details>
