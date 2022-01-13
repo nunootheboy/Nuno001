@@ -57,7 +57,7 @@
   <a href="https://github.com/Nuno001">
     <img
       align="center"
-      src="https://github-profile-trophy.vercel.app/?username=LuanderFarias&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=Nuno001&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
     />
   </a>
 </a>
