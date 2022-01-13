@@ -86,5 +86,7 @@
     /> print ('Obrigado por ler')
   </a>
 </p>
+
+![Snake animation](https://github.com/LMS5413/LMS5413/blob/output/github-contribution-grid-snake.svg)
 <h5 align="center">@Nuno001</h5>
 </details>
