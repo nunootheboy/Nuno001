@@ -74,7 +74,7 @@
   </a>
     </>
   </a>
-  <a href="https://discord.gg/https://discord.gg/Gkhs4eFpbR">
+  <a href="https://discord.gg/2DjtfTGar4">
     <img
       align="center"
       src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=00FFFF">
