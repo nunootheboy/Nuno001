@@ -3,7 +3,7 @@
 I'm Nuno a Python programmer and OS Configurator. I spend most of my time coding pending projects or getting a better result in my projects
   
 
-- 🔭 I’m currently working at @OptimizeTeam
+- 🔭 I’m currently working at @OptimizeTeamX
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me on discord.
 - ⚡ Fun fact: I play games and love code games.
